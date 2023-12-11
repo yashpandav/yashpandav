@@ -1,4 +1,4 @@
-<h1 align="center">Hello 🙋‍♂️, I'm Yash Pandav</h1>
+<h1 align="center">Hello, I'm Yash Pandav 🙋‍♂️</h1>
 <h3 align="center">
      Exploring emerging trend of tech industry and want to dive deep into the tech
      world.
