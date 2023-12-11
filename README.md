@@ -5,14 +5,17 @@
 </h3>
 
 - 🔭 I’m currently learning [Front-End Web
-Development](https://github.com/yashpandav/FitPulse) - 👯 I want to give my
-contribution in the world of **Deep-Learning And Machine Learning** - 👨‍💻 All of
+Development](https://github.com/yashpandav/FitPulse) <br>- 👯 I want to give my
+contribution in the world of **Deep-Learning And Machine Learning**  <br>- 👨‍💻 All of
 my projects are available at
-[https://github.com/yashpandav](https://github.com/yashpandav) - 📫 Want to
+[https://github.com/yashpandav](https://github.com/yashpandav)  <br>- 📫 Want to
 connect With me ? **pandavyash076@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left"></p>
+<p align="left">
+<a href="https://linkedin.com/in/yashpandav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yashpandav" height="30" width="40" /></a>
+</p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -52,7 +55,6 @@ connect With me ? **pandavyash076@gmail.com**
           width="40" height="40" />
 </a>
 </p>
-<span style="color:red;">Your text here</span>
 
 
 <p>
