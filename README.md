@@ -61,7 +61,7 @@ contact With me ? **pandavyash076@gmail.com**
 
 
 <p>
-     <img align="left"
+     <img align="right"
           src="https://github-readme-stats.vercel.app/api/top-langs?username=yashpandav&show_icons=true&locale=en&layout=compact"
           alt="yashpandav" />
 </p>
