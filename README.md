@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yash Pandav</h1>
 <h3 align="center">Exploring emerging trend of tech industry and want to dive deep into the tech world.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yashpandav" alt="yashpandav" /></a> </p>
-
 - 🔭 I’m currently learning [Front-End Web Development](https://github.com/yashpandav/FitPulse)
 
 - 👯 I want to give my contribution in the world of **Deep-Learning And Machine Learning**
