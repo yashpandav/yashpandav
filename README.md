@@ -14,7 +14,7 @@ connect With me ? **pandavyash076@gmail.com**
 <h3 align="left">Connect with me:</h3>
 <p align="left"></p>
 
-<h3 align="left" color="red">Languages and Tools:</h3>
+<h3>Languages and Tools:</h3>
 <p align="left">
      <div></div>
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
