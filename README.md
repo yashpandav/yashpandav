@@ -4,12 +4,14 @@
      world.
 </h3>
 
-🔭 I’m currently learning [Front-End Web
+-🔭 I’m currently learning [Front-End Web
 Development](https://github.com/yashpandav/FitPulse) <br>
 -🧑‍🎓 Currently i am a student of B.Sc.IT.<br>
 - 👯 I want to give my
-contribution in the world of **Deep-Learning And Machine Learning**  <br>- 👨‍💻 Checkout my project 👉
-[https://github.com/yashpandav](https://github.com/yashpandav)  <br>- 📫 Want to
+contribution in the world of **Deep-Learning And Machine Learning**  <br>
+- 👨‍💻 Checkout my project 👉
+[https://github.com/yashpandav](https://github.com/yashpandav)  <br>
+- 📫 Want to
 contact With me ? **pandavyash076@gmail.com**
 
 <h3 align="left">Stay connected with me:</h3>
