@@ -4,9 +4,9 @@
      world.
 </h3>
 
--🔭 I’m currently learning [Front-End Web
+- 🔭 I’m currently learning [Front-End Web
 Development](https://github.com/yashpandav/FitPulse) <br>
--🧑‍🎓 Currently i am a student of B.Sc.IT.<br>
+- 🧑‍🎓 Currently i am a student of B.Sc.IT.<br>
 - 👯 I want to give my
 contribution in the world of **Deep-Learning And Machine Learning**  <br>
 - 👨‍💻 Checkout my project 👉
