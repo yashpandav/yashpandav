@@ -57,12 +57,10 @@ contact With me ? **pandavyash076@gmail.com**
      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux"
           width="40" height="40" />
 </a>
-     <p align="right">learning is a new journey.</p>
 </p>
 
 
 <p>
-     <p>Thanks for comming here. Do not forget to checkout my project and give me your suggestion</p>
      <img align="right"
           src="https://github-readme-stats.vercel.app/api/top-langs?username=yashpandav&show_icons=true&locale=en&layout=compact"
           alt="yashpandav" />
