@@ -1,17 +1,18 @@
-<h1 align="center">Hi 👋, I'm Yash Pandav</h1>
+<h1 align="center">Hello 🙋‍♂️, I'm Yash Pandav</h1>
 <h3 align="center">
      Exploring emerging trend of tech industry and want to dive deep into the tech
      world.
 </h3>
 
-- 🔭 I’m currently learning [Front-End Web
-Development](https://github.com/yashpandav/FitPulse) <br>- 👯 I want to give my
-contribution in the world of **Deep-Learning And Machine Learning**  <br>- 👨‍💻 All of
-my projects are available at
+🔭 I’m currently learning [Front-End Web
+Development](https://github.com/yashpandav/FitPulse) <br>
+-🧑‍🎓 Currently i am a student of B.Sc.IT.<br>
+- 👯 I want to give my
+contribution in the world of **Deep-Learning And Machine Learning**  <br>- 👨‍💻 Checkout my project 👉
 [https://github.com/yashpandav](https://github.com/yashpandav)  <br>- 📫 Want to
-connect With me ? **pandavyash076@gmail.com**
+contact With me ? **pandavyash076@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Stay connected with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/yashpandav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yashpandav" height="30" width="40" /></a>
 </p>
@@ -41,7 +42,7 @@ connect With me ? **pandavyash076@gmail.com**
      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40"
           height="40" /> </a>&nbsp;&nbsp;
  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-          <br>
+          <br> 
      
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"
@@ -61,14 +62,4 @@ connect With me ? **pandavyash076@gmail.com**
      <img align="left"
           src="https://github-readme-stats.vercel.app/api/top-langs?username=yashpandav&show_icons=true&locale=en&layout=compact"
           alt="yashpandav" />
-</p>
-
-<p>
-     &nbsp;<img align="center"
-          src="https://github-readme-stats.vercel.app/api?username=yashpandav&show_icons=true&locale=en"
-          alt="yashpandav" />
-</p>
-
-<p>
-     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yashpandav&" alt="yashpandav" />
 </p>
