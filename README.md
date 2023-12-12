@@ -1,4 +1,4 @@
-<img align="top" src="beckground.gif" width="100%">
+<img align="top" src="https://github.com/yashpandav/yashpandav/blob/main/background.gif" width="100%">
 
 <h1 align="center">Hello, I'm Yash Pandav 🙋‍♂️</h1>
 <h3 align="center">
