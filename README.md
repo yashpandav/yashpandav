@@ -1,3 +1,5 @@
+<img align="top" src="desi.gif" width="100%">
+
 <h1 align="center">Hello, I'm Yash Pandav 🙋‍♂️</h1>
 <h3 align="center">
      Exploring emerging trend of tech industry and want to dive deep into the tech
@@ -14,6 +16,7 @@ contribution in the world of **Deep-Learning And Machine Learning**  <br>
 - 📫 Want to
 contact With me ? **pandavyash076@gmail.com**
 
+<img align="right" width="500" src="https://i.pinimg.com/originals/54/c9/af/54c9af226721e95539a5cd9592d635bb.gif" >
 <h3 align="left">Stay connected with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/yashpandav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yashpandav" height="30" width="40" /></a>
@@ -61,7 +64,7 @@ contact With me ? **pandavyash076@gmail.com**
 
 
 <p>
-     <img align="right"
+     <img align="center"
           src="https://github-readme-stats.vercel.app/api/top-langs?username=yashpandav&show_icons=true&locale=en&layout=compact"
           alt="yashpandav" />
 </p>
