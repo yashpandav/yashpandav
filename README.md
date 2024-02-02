@@ -7,7 +7,7 @@
 </h3>
 
 - 🔭 I’m currently learning [Front-End Web
-Development](https://github.com/yashpandav/FitPulse) <br>
+Development](https://github.com/yashpandav/FitPulse) and Data Structures And Algorithms. <br>
 - 🧑‍🎓 Currently i am a student of B.Sc.IT.<br>
 - 📍 I want to give my
 contribution in the world of **Deep-Learning And Machine Learning**  <br>
@@ -44,11 +44,14 @@ contact With me ? **pandavyash076@gmail.com**
      <br>
 
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="c" width="40"
+          height="40" /> </a>&nbsp;&nbsp;
+<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40"
           height="40" /> </a>&nbsp;&nbsp;
  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
           <br> 
-     
+          <br>
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"
           alt="photoshop" width="40" height="40" />
