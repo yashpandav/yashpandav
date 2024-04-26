@@ -25,7 +25,7 @@ contact With me ? **pandavyash076@gmail.com**
 </p>
 <br>
 
-<h2 align="left" style = "margin-top : 20px">🛠️ &nbsp;Languages And Tools</h2>
+<h3 align="left" style = "font-size : 20px" margin-top : 20px">🛠️ &nbsp;Languages And Tools</h3>
 
 <div> </div>
 <div> </div>
@@ -83,7 +83,7 @@ contact With me ? **pandavyash076@gmail.com**
           width="50" height="50" alt = "leetcode"/>
 </a>&nbsp;
 <a href = "https://www.hackerrank.com/profile/yashcource" alt = "_blanl">
-    <img src = "https://img.icons8.com/?size=512&id=OUPsEPLKIebZ&format=png"  width="50" height="50" alt = "hackerrank">
+    <img src = "https://png.pngitem.com/pimgs/s/366-3662405_hackerrank-logo-png-transparent-png.png"  width="50" height="50" alt = "hackerrank">
 </a>
 </p>
 <p>
