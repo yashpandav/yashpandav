@@ -56,7 +56,7 @@ contact With me ? **pandavyash076@gmail.com**
     <div style = "margin-top : 10px">
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="c" width="40"
-          height="40" /> </a>&nbsp;&nbsp;
+          height="40" /> </a>&nbsp;
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40"
           height="40" /> </a>&nbsp;&nbsp;
