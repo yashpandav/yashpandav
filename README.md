@@ -39,7 +39,7 @@ contact With me ? **pandavyash076@gmail.com** <br>
                alt="javascript" width="50px" height="50px" />
      </a>&nbsp;&nbsp;
         <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
-          <img src="https://img.icons8.com/?size=512&id=SDVmtZ6VBGXt&format=png" style = "background-color: white"
+          <img src="https://img.icons8.com/?size=100&id=SDVmtZ6VBGXt&format=png&color=000000"
                alt="javascript" width="50px" height="50px" />
      </a>&nbsp;&nbsp;
      <a href = "https://www.bing.com/ck/a?!&&p=94a0f9355fe2f375JmltdHM9MTcxNDAwMzIwMCZpZ3VpZD0wN2FhMTIzNi0zM2Y0LTY5NzMtMWVkNy0wMWUzMzI2ZjY4NjQmaW5zaWQ9NTQ2MA&ptn=3&ver=2&hsh=3&fclid=07aa1236-33f4-6973-1ed7-01e3326f6864&psq=react&u=a1aHR0cHM6Ly9yZWFjdC5kZXYv&ntb=1" target = "_blank" rel="noreferrer">
