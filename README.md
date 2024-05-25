@@ -16,7 +16,7 @@ contribution in the world of **Deep-Learning And Machine Learning** <br>
 [https://github.com/yashpandav](https://github.com/yashpandav)  <br>
 - 📫 Want to
 contact With me ? **pandavyash076@gmail.com** <br>
-- 📝 Know more about mw 👉
+- 📝 Know more about me 👉
   [Yash_Pandav_Resume](https://drive.google.com/file/d/1BZjrxoKbqDCz4cXJMcxyKSP9tA1ShYnr/view?usp=drive_link)
 <br>
 <br>
