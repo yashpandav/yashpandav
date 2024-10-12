@@ -85,6 +85,9 @@ contact With me ? **pandavyash076@gmail.com** <br>
 </a>
 </div>
 </p>
+<div style = "margin-top : 20px"></div>
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=yashpandav&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=yashpandav&langs_count=5&theme=tokyonight)]()
 <h2 style = "margin-top : 20px"> 🔗 Links </h2>
 <p>
 <a href = "https://leetcode.com/Yash_Pandav/" target = "_blank">
