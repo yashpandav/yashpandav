@@ -104,3 +104,5 @@ contact With me ? **pandavyash076@gmail.com** <br>
           src="https://github-readme-stats.vercel.app/api/top-langs?username=yashpandav&show_icons=true&locale=en&layout=compact"
           alt="yashpandav" />
 </p>
+
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=yashpandav)
