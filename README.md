@@ -84,19 +84,19 @@ contact With me ? **pandavyash076@gmail.com** <br>
 <div style = "margin-top : 20px"></div>
 
 ![GITHUB STATS](https://github-readme-stats.vercel.app/api/?username=yashpandav&count_private=true&theme=tokyonight&show_icons=true)
-
 <h2 style="margin-top: 20px"> 🔗 Links </h2>
 <p>
     <a href="https://leetcode.com/Yash_Pandav/" target="_blank" rel="noreferrer">
         <img src="https://skillicons.dev/icons?i=leetcode" alt="LeetCode" width="50px" height="50px" />
-    </a>&nbsp;&nbsp;
+    </a>
     <a href="https://www.hackerrank.com/profile/yashcource" target="_blank" rel="noreferrer">
         <img src="https://skillicons.dev/icons?i=hackerrank" alt="HackerRank" width="50px" height="50px" />
-    </a>&nbsp;&nbsp;
+    </a>
     <a href="https://www.geeksforgeeks.org/user/yashcot3sn/" target="_blank" rel="noreferrer">
-        <img src="https://skillicons.dev/icons?i=gfg" alt="GeeksforGeeks" width="50px" height="50px" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" alt="GeeksforGeeks" width="50px" height="50px" />
     </a>
 </p>
+
 
 <p>
      <img align="center" style = "margin-top : 20px" 
