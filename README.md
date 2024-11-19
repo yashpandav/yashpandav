@@ -22,8 +22,10 @@ contact With me ? **pandavyash076@gmail.com** <br>
 <br>
 <img align="right" width="350" src="https://i.pinimg.com/originals/54/c9/af/54c9af226721e95539a5cd9592d635bb.gif" >
 <h3 align="left">🤝 &nbsp;Stay connected with me:</h3>
-<p align="left" style = "margin-top : 14px">
-<a href="https://linkedin.com/in/yashpandav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yashpandav" height="30" width="40" /></a>
+<p align="left" style="margin-top: 14px;">
+    <a href="https://linkedin.com/in/yashpandav" target="_blank">
+        <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="40px" height="40px" />
+    </a>
 </p>
 <br>
 <h3 align="left" style="font-size: 20px; margin-top: 20px">🛠️ &nbsp;Languages And Tools</h3>
@@ -83,16 +85,19 @@ contact With me ? **pandavyash076@gmail.com** <br>
 
 ![GITHUB STATS](https://github-readme-stats.vercel.app/api/?username=yashpandav&count_private=true&theme=tokyonight&show_icons=true)
 
-<h2 style = "margin-top : 20px"> 🔗 Links </h2>
+<h2 style="margin-top: 20px"> 🔗 Links </h2>
 <p>
-<a href = "https://leetcode.com/Yash_Pandav/" target = "_blank">
-<img src = "https://img.icons8.com/?size=512&id=9L16NypUzu38&format=png" alt="leetcode"
-          width="50" height="50" alt = "leetcode"/>
-</a>&nbsp;
-<a href = "https://www.hackerrank.com/profile/yashcource" alt = "_blanl">
-    <img src = "https://png.pngitem.com/pimgs/s/366-3662405_hackerrank-logo-png-transparent-png.png"  width="50" height="50" alt = "hackerrank">
-</a>
+    <a href="https://leetcode.com/Yash_Pandav/" target="_blank" rel="noreferrer">
+        <img src="https://skillicons.dev/icons?i=leetcode" alt="LeetCode" width="50px" height="50px" />
+    </a>&nbsp;&nbsp;
+    <a href="https://www.hackerrank.com/profile/yashcource" target="_blank" rel="noreferrer">
+        <img src="https://skillicons.dev/icons?i=hackerrank" alt="HackerRank" width="50px" height="50px" />
+    </a>&nbsp;&nbsp;
+    <a href="https://www.geeksforgeeks.org/user/yashcot3sn/" target="_blank" rel="noreferrer">
+        <img src="https://skillicons.dev/icons?i=gfg" alt="GeeksforGeeks" width="50px" height="50px" />
+    </a>
 </p>
+
 <p>
      <img align="center" style = "margin-top : 20px" 
           src="https://github-readme-stats.vercel.app/api/top-langs?username=yashpandav&show_icons=true&locale=en&layout=compact"
