@@ -106,11 +106,19 @@ contact With me ? **pandavyash076@gmail.com** <br>
      </a>
 </p>
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=yashpandav&theme=radical&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=yashpandav&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=yashpandav&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=yashpandav&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+---
+[![](https://visitcount.itsvg.in/api?id=yashpandav&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <p>
      <img align="center" style = "margin-top : 20px" 
           src="https://github-readme-stats.vercel.app/api/top-langs?username=yashpandav&show_icons=true&locale=en&layout=compact"
           alt="yashpandav" />
 </p>
-
-![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=yashpandav)
