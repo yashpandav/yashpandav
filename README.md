@@ -113,4 +113,4 @@ contact With me ? **pandavyash076@gmail.com** <br>
 ![](https://github-profile-trophy.vercel.app/?username=yashpandav&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=yashpandav&icon=0&color=0)](https://visitcount.itsvg.in)
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=yashpandav)
