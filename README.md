@@ -6,7 +6,7 @@
      world.
 </h3>
 
-- 🔭 I’m currently learning [Full Stack Development](https://github.com/yashpandav/Circle) and Data Structures And Algorithms. <br>
+- 🔭 I’m currently learning Data Science and GenAI<br>
 
 - 🧑‍🎓 Currently i am a student of B.Sc.IT.<br>
 
