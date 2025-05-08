@@ -28,6 +28,11 @@ contact With me ? **pandavyash076@gmail.com** <br>
         <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="40px" height="40px" />
     </a>
 </p>
+<p align="left" style="margin-top: 14px;">
+    <a href="https://discordapp.com/users/yashpandav" target="_blank">
+        <img src="https://skillicons.dev/icons?i=discord" alt="discord" width="40px" height="40px" />
+    </a>
+</p>
 <br>
 <h3 align="left" style="font-size: 20px; margin-top: 20px">🛠️ Languages And Tools</h3>
 
