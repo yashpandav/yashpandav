@@ -27,8 +27,6 @@ contact With me ? **pandavyash076@gmail.com** <br>
     <a href="https://linkedin.com/in/yashpandav" target="_blank">
         <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="40px" height="40px" />
     </a>
-</p>
-<p align="left" style="margin-top: 14px;">
     <a href="https://discordapp.com/users/yashpandav" target="_blank">
         <img src="https://skillicons.dev/icons?i=discord" alt="discord" width="40px" height="40px" />
     </a>
