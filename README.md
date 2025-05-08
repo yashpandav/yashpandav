@@ -24,7 +24,7 @@ contact With me ? **pandavyash076@gmail.com** <br>
 <img align="right" width="350" src="https://i.pinimg.com/originals/54/c9/af/54c9af226721e95539a5cd9592d635bb.gif" >
 <h3 align="left">🤝 Stay connected with me:</h3>
 <p align="left" style="margin-top: 14px;">
-    <a href="https://linkedin.com/in/yashpandav" target="_blank">
+    <a href="https://www.linkedin.com/in/yash-pandav/" target="_blank">
         <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="40px" height="40px" />
     </a>
     <a href="https://discordapp.com/users/yashpandav" target="_blank">
