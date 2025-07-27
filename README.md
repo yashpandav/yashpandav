@@ -31,7 +31,7 @@ contact With me ? **pandavyash076@gmail.com** <br>
         <img src="https://skillicons.dev/icons?i=discord" alt="discord" width="40px" height="40px" />
     </a>
     <a href = "https://hashnode.com/@yashpandav" target = "_blank">
-         <img width="50" height="50" src="https://github.com/user-attachments/assets/3a1b57d4-7b6e-429c-8476-ff3548c7bb36" alt="hashnode"/>
+         <img width="50" height="50" src="https://github.com/yashpandav/yashpandav/blob/main/brand-icon.jpg" alt="hashnode"/>
     </a>
     <a href = "https://leetcode.com/Yash_Pandav/" target = "_blank">
           <img src = "https://img.icons8.com/?size=512&id=9L16NypUzu38&format=png" alt="leetcode"
