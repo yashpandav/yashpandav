@@ -30,6 +30,22 @@ contact With me ? **pandavyash076@gmail.com** <br>
     <a href="https://discordapp.com/users/yashpandav" target="_blank">
         <img src="https://skillicons.dev/icons?i=discord" alt="discord" width="40px" height="40px" />
     </a>
+    <a href = "https://hashnode.com/@yashpandav" target = "_blank">
+         <img width="50" height="50" src="https://github.com/user-attachments/assets/3a1b57d4-7b6e-429c-8476-ff3548c7bb36" alt="hashnode"/>
+    </a>
+    <a href = "https://leetcode.com/Yash_Pandav/" target = "_blank">
+          <img src = "https://img.icons8.com/?size=512&id=9L16NypUzu38&format=png" alt="leetcode"
+          width="50" height="50" alt = "leetcode"/>
+    </a>
+    <a href = "https://medium.com/@yashpandav076" target = "_blank">
+          <img src = "https://github.com/yashpandav/yashpandav/blob/main/Medium-Icon-Black.svg" alt="medium" width="50" height="50"/>
+     </a>
+    <a href="https://www.geeksforgeeks.org/user/yashcot3sn/" target="_blank" rel="noreferrer">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" alt="GeeksforGeeks" width="50px" height="50px" />
+    </a>
+     <a href = "https://www.hackerrank.com/profile/yashcource" alt = "_blanl">
+         <img src = "https://png.pngitem.com/pimgs/s/366-3662405_hackerrank-logo-png-transparent-png.png"  width="50" height="50" alt = "hackerrank">
+     </a>
 </p>
 <br>
 <h3 align="left" style="font-size: 20px; margin-top: 20px">🛠️ Languages And Tools</h3>
@@ -95,16 +111,6 @@ contact With me ? **pandavyash076@gmail.com** <br>
 <div style = "margin-top : 20px"></div>
 <h2 style="margin-top: 20px"> 🔗 Links </h2>
 <p>
-    <a href = "https://leetcode.com/Yash_Pandav/" target = "_blank">
-          <img src = "https://img.icons8.com/?size=512&id=9L16NypUzu38&format=png" alt="leetcode"
-          width="50" height="50" alt = "leetcode"/>
-     </a>
-    <a href="https://www.geeksforgeeks.org/user/yashcot3sn/" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" alt="GeeksforGeeks" width="50px" height="50px" />
-    </a>
-     <a href = "https://www.hackerrank.com/profile/yashcource" alt = "_blanl">
-         <img src = "https://png.pngitem.com/pimgs/s/366-3662405_hackerrank-logo-png-transparent-png.png"  width="50" height="50" alt = "hackerrank">
-     </a>
 </p>
 
 # 📊 GitHub Stats:
