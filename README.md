@@ -50,7 +50,7 @@ Exploring emerging trends of the tech industry and diving deep into the world of
 ### 💻 Frontend
 <p>
   <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,bootstrap,materialui" height="50"/>
-  <img src="https://img.shields.io/badge/shadcnUI-%23000?style=for-the-badge&logo=shadcnui&logoColor=white" height="30"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts" height="50"/>
 </p>
 
 ### ⚙️ Backend
