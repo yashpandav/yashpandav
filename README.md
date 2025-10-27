@@ -55,31 +55,29 @@ Exploring emerging trends of the tech industry and diving deep into the world of
 
 ### ⚙️ Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express" height="50"/>
-  <img src="https://img.shields.io/badge/WebSockets-%2300BFFF?style=for-the-badge&logo=websocket&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/BullMQ-%23FF0000?style=for-the-badge&logo=nodedotjs&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/Multer-%23ffca28?style=for-the-badge&logo=node.js&logoColor=white" height="30"/>
+  <img src="https://skillicons.dev/icons?i=express,nodejs,fastapi" height="50"/>
 </p>
 
 ### 🗄️ Databases & Caching
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis" height="50"/>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis,supabase,firebase" height="50"/>
 </p>
 
-### ☁️ DevOps & Tools
+### ☁️ Deployment & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,linux,aws" height="50"/>
-  <img src="https://img.shields.io/badge/Nginx-%23009639?style=for-the-badge&logo=nginx&logoColor=white" height="30"/>
+  <img src="https://skillicons.dev/icons?i=git,github,linux,aws,nginx,vercel" height="50"/>
 </p>
 
 ### 🤖 AI / GenAI Tools
 <p>
-  <img src="https://img.shields.io/badge/LangChain-%2300BFFF?style=for-the-badge&logo=python&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/LangGraph-%231B1F23?style=for-the-badge&logo=python&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/LangFlow-%233C3C3C?style=for-the-badge&logo=python&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/OpenAI%20APIs-%23008DD1?style=for-the-badge&logo=openai&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/Gemini%20AI-%2300BFFF?style=for-the-badge&logo=google&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/Qdrant%20VectorDB-%23FF3366?style=for-the-badge&logo=database&logoColor=white" height="30"/>
+  <img src="https://images.openai.com/thumbnails/url/pU4gOXicu5meUVJSUGylr5-al1xUWVCSmqJbkpRnoJdeXJJYkpmsl5yfq5-Zm5ieWmxfaAuUsXL0S7F0Tw7JSgzMzQyON3CxSDSLjzBKzisPME1zLc11Dan0NXOJqgjMdwsPCgoOCKlMVyu2NTQAAA4_JSM" height="40" width="40" alt="LangChain"/>
+  <img src="https://images.openai.com/static-rsc-1/gUmPPST_EeQ572YXN2JzTsC1f8sl0dYwQAGh7SAnAlZkCOOstt9LL2opXEafvlsXqrU1Y6mOIwimn4Hb9zI04yIB84y9wfmNI8mF_Gya40wsVf_iVjJceFZCFgxd8ibGam3ZiQDBGX4IaItWqh470A" height="40" alt="LangGraph"/>
+  <img src="https://competitions.langflow.org/logo.svg" height="40" alt="LangFlow"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg" height="40" alt="OpenAI APIs"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Google_Gemini_logo.svg/2560px-Google_Gemini_logo.svg.png" height="40" alt="Gemini AI"/>
+  <img src="https://qdrant.tech/img/qdrant-logo-red-black.svg" height="40" alt="VectorDB"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/N8n-logo-new.svg/1024px-N8n-logo-new.svg.png" height="40" alt="n8n"/>
+  
 </p>
 
 ### 🧠 Programming Languages
@@ -101,11 +99,5 @@ Exploring emerging trends of the tech industry and diving deep into the world of
 
 ---
 
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yashpandav&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4"/>
-</p>
-
----
-
 ![Profile Views](https://komarev.com/ghpvc/?username=yashpandav&color=blueviolet)
+
