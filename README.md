@@ -2,123 +2,110 @@
 
 <h1 align="center">Hello, I'm Yash Pandav 🙋‍♂️</h1>
 <h3 align="center">
-     Exploring emerging trend of tech industry and want to dive deep into the tech
-     world.
+Exploring emerging trends of the tech industry and diving deep into the world of technology.
 </h3>
 
-- 🔭 I’m currently learning Data Science and GenAI<br>
+---
 
-- 🧑‍🎓 Currently i am a student of B.Sc.IT.<br>
-
-- 📍 I want to give my
-contribution in the world of **Deep-Learning And Machine Learning** <br>
-- 💻 Checkout my project 👉
-[https://github.com/yashpandav](https://github.com/yashpandav)  <br>
-- 📫 Want to
-contact With me ? **pandavyash076@gmail.com** <br>
-- 📝 Know more about me 👉
-  [Yash_Pandav_Resume](https://drive.google.com/file/d/1LiJPlb8OvMAimUihFTTWkbmjFwySdy4u/view?usp=sharing)
- 
-<br>
-<br>
-<img align="right" width="350" src="https://i.pinimg.com/originals/54/c9/af/54c9af226721e95539a5cd9592d635bb.gif" >
-<h3 align="left">🤝 Stay connected with me:</h3>
-<p align="left" style="margin-top: 14px;">
-    <a href="https://www.linkedin.com/in/yash-pandav/" target="_blank">
-        <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="40px" height="40px" />
-    </a>
-    <a href="https://discordapp.com/users/yashpandav" target="_blank">
-        <img src="https://skillicons.dev/icons?i=discord" alt="discord" width="40px" height="40px" />
-    </a>
-    <a href = "https://hashnode.com/@yashpandav" target = "_blank">
-         <img width="50" height="50" src="https://github.com/yashpandav/yashpandav/blob/main/brand-icon.jpg" alt="hashnode"/>
-    </a>
-    <a href = "https://leetcode.com/Yash_Pandav/" target = "_blank">
-          <img src = "https://img.icons8.com/?size=512&id=9L16NypUzu38&format=png" alt="leetcode"
-          width="50" height="50" alt = "leetcode"/>
-    </a>
-    <a href = "https://medium.com/@yashpandav076" target = "_blank">
-          <img src = "https://github.com/yashpandav/yashpandav/blob/main/Medium-Icon-Black.svg" alt="medium" width="50" height="50"/>
-     </a>
-    <a href="https://www.geeksforgeeks.org/user/yashcot3sn/" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" alt="GeeksforGeeks" width="50px" height="50px" />
-    </a>
-     <a href = "https://www.hackerrank.com/profile/yashcource" alt = "_blanl">
-         <img src = "https://png.pngitem.com/pimgs/s/366-3662405_hackerrank-logo-png-transparent-png.png"  width="50" height="50" alt = "hackerrank">
-     </a>
-</p>
-<br>
-<h3 align="left" style="font-size: 20px; margin-top: 20px">🛠️ Languages And Tools</h3>
-
-<p align="left">
-    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-        <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="50px" height="50px" />
-    </a>
-    <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
-        <img src="https://skillicons.dev/icons?i=express" alt="Express.js" width="50px" height="50px" />
-    </a>
-    <a href="https://react.dev/" target="_blank" rel="noreferrer">
-        <img src="https://skillicons.dev/icons?i=react" alt="React" width="50px" height="50px" />
-    </a>
-    <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
-        <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="50px" height="50px" />
-    </a>
-</p>
-
-<p align="left">
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-        <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" width="50px" height="50px" />
-    </a>
-    <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
-        <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" width="50px" height="50px" />
-    </a>
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-        <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="50px" height="50px" />
-    </a>
-    <a href="https://mui.com/" target="_blank" rel="noreferrer">
-        <img src="https://skillicons.dev/icons?i=materialui" alt="Material UI" width="50px" height="50px" />
-    </a>
-</p>
-
-<p align="left">
-    <a href="https://www.java.com/" target="_blank" rel="noreferrer">
-        <img src="https://skillicons.dev/icons?i=java" alt="Java" width="50px" height="50px" />
-    </a>
-    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-        <img src="https://skillicons.dev/icons?i=c" alt="C" width="50px" height="50px" />
-    </a>
-    <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-        <img src="https://skillicons.dev/icons?i=python" alt="Python" width="50px" height="50px" />
-    </a>
-    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-        <img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" width="50px" height="50px" />
-    </a>
-</p>
-
-<p align="left">
-    <a href="https://www.photoshop.com/" target="_blank" rel="noreferrer">
-        <img src="https://skillicons.dev/icons?i=ps" alt="Photoshop" width="50px" height="50px" />
-    </a>
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-        <img src="https://skillicons.dev/icons?i=git" alt="Git" width="50px" height="50px" />
-    </a>
-    <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-        <img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="50px" height="50px" />
-    </a>
-</p>
-
-
-<div style = "margin-top : 20px"></div>
-<p>
-</p>
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=yashpandav&theme=radical&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=yashpandav&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=yashpandav&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=yashpandav&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+- 🔭 I’m currently learning **Data Science** and **Generative AI**  
+- 🧑‍🎓 Pursuing **B.Sc. IT**  
+- 📍 Passionate about contributing to the world of **Deep Learning** and **Machine Learning**  
+- 💻 Checkout my projects 👉 [GitHub Profile](https://github.com/yashpandav)  
+- 📫 Reach me at **pandavyash076@gmail.com**  
+- 📝 Know more about me 👉 [Resume](https://drive.google.com/file/d/1LiJPlb8OvMAimUihFTTWkbmjFwySdy4u/view?usp=sharing)  
 
 ---
-![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=yashpandav)
+
+<img align="right" width="350" src="https://i.pinimg.com/originals/54/c9/af/54c9af226721e95539a5cd9592d635bb.gif">
+
+### 🤝 Stay Connected With Me
+<p align="left">
+  <a href="https://www.linkedin.com/in/yash-pandav/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40" />
+  </a>
+  <a href="https://discordapp.com/users/yashpandav" target="_blank">
+    <img src="https://skillicons.dev/icons?i=discord" width="40" height="40" />
+  </a>
+  <a href="https://hashnode.com/@yashpandav" target="_blank">
+    <img width="50" height="50" src="https://github.com/yashpandav/yashpandav/blob/main/brand-icon.jpg" alt="hashnode"/>
+  </a>
+  <a href="https://leetcode.com/Yash_Pandav/" target="_blank">
+    <img src="https://img.icons8.com/?size=512&id=9L16NypUzu38&format=png" width="50" height="50" alt="LeetCode"/>
+  </a>
+  <a href="https://medium.com/@yashpandav076" target="_blank">
+    <img src="https://github.com/yashpandav/yashpandav/blob/main/Medium-Icon-Black.svg" width="50" height="50" alt="Medium"/>
+  </a>
+  <a href="https://www.geeksforgeeks.org/user/yashcot3sn/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" width="50" height="50" alt="GeeksforGeeks"/>
+  </a>
+  <a href="https://www.hackerrank.com/profile/yashcource" target="_blank">
+    <img src="https://png.pngitem.com/pimgs/s/366-3662405_hackerrank-logo-png-transparent-png.png" width="50" height="50" alt="Hackerrank"/>
+  </a>
+</p>
+
+---
+
+## 🛠️ Tech Stack Overview
+
+### 💻 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,bootstrap,materialui" height="50"/>
+  <img src="https://img.shields.io/badge/shadcnUI-%23000?style=for-the-badge&logo=shadcnui&logoColor=white" height="30"/>
+</p>
+
+### ⚙️ Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" height="50"/>
+  <img src="https://img.shields.io/badge/WebSockets-%2300BFFF?style=for-the-badge&logo=websocket&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/BullMQ-%23FF0000?style=for-the-badge&logo=nodedotjs&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/Multer-%23ffca28?style=for-the-badge&logo=node.js&logoColor=white" height="30"/>
+</p>
+
+### 🗄️ Databases & Caching
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis" height="50"/>
+</p>
+
+### ☁️ DevOps & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,linux,aws" height="50"/>
+  <img src="https://img.shields.io/badge/Nginx-%23009639?style=for-the-badge&logo=nginx&logoColor=white" height="30"/>
+</p>
+
+### 🤖 AI / GenAI Tools
+<p>
+  <img src="https://img.shields.io/badge/LangChain-%2300BFFF?style=for-the-badge&logo=python&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/LangGraph-%231B1F23?style=for-the-badge&logo=python&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/LangFlow-%233C3C3C?style=for-the-badge&logo=python&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/OpenAI%20APIs-%23008DD1?style=for-the-badge&logo=openai&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/Gemini%20AI-%2300BFFF?style=for-the-badge&logo=google&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/Qdrant%20VectorDB-%23FF3366?style=for-the-badge&logo=database&logoColor=white" height="30"/>
+</p>
+
+### 🧠 Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,javascript,java,c" height="50"/>
+</p>
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yashpandav&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" width="49%"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=yashpandav&theme=tokyonight&hide_border=false" width="49%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashpandav&theme=tokyonight&hide_border=false&layout=compact&langs_count=8" width="49%"/>
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=yashpandav&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4"/>
+</p>
+
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=yashpandav&color=blueviolet)
