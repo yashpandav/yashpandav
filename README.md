@@ -17,7 +17,7 @@ contribution in the world of **Deep-Learning And Machine Learning** <br>
 - 📫 Want to
 contact With me ? **pandavyash076@gmail.com** <br>
 - 📝 Know more about me 👉
-  [Yash_Pandav_Resume](https://drive.google.com/file/d/1KQ3rj1DzcBm2glg5mDRJJmgDUZIiYUA_/view?usp=sharing)
+  [Yash_Pandav_Resume](https://drive.google.com/file/d/1LiJPlb8OvMAimUihFTTWkbmjFwySdy4u/view?usp=sharing)
  
 <br>
 <br>
