@@ -9,9 +9,10 @@ Exploring emerging trends of the tech industry and diving deep into the world of
 
 - 🔭 I’m currently learning **Data Science** and **Generative AI**  
 - 🧑‍🎓 Pursuing **B.Sc. IT**  
-- 📍 Passionate about contributing to the world of **Deep Learning** and **Machine Learning**  
+- 📍 Passionate about contributing to the world of **Deep Learning** and **Machine Learning**
+- 🌐 Portfolio 👉 [yahspandav.dev](https://www.yashpandav.dev/)
 - 💻 Checkout my projects 👉 [GitHub Profile](https://github.com/yashpandav?tab=repositories)  
-- 📫 Reach me at **pandavyash076@gmail.com**  
+- 📫 Reach me at **contact@yashpandav.dev**  
 - 📝 Know more about me 👉 [Resume](https://drive.google.com/file/d/1LiJPlb8OvMAimUihFTTWkbmjFwySdy4u/view?usp=sharing)  
 
 ---
