@@ -13,7 +13,7 @@ Exploring emerging trends of the tech industry and diving deep into the world of
 - 🌐 Portfolio 👉 [yahspandav.dev](https://www.yashpandav.dev/)
 - 💻 Checkout my projects 👉 [GitHub Profile](https://github.com/yashpandav?tab=repositories)  
 - 📫 Reach me at **contact@yashpandav.dev**  
-- 📝 Know more about me 👉 [Resume](https://drive.google.com/file/d/1LiJPlb8OvMAimUihFTTWkbmjFwySdy4u/view?usp=sharing)  
+- 📝 Know more about me 👉 [Resume](https://drive.google.com/file/d/1xq6-83jdWkrOTpY2PksBAXoTkwsObU6Q/view?usp=sharing)  
 
 ---
 
