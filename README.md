@@ -130,13 +130,5 @@ Right now I'm deep into **Agentic AI**, **RAG pipelines**, and **LLM-integrated 
 </div>
 
 ---
-
-<div align="center">
-
 <img src="https://komarev.com/ghpvc/?username=yashpandav&color=a78bfa&style=flat&label=profile+views"/>
-
-</div>
-
----
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,12&height=100&section=footer" width="100%" />
