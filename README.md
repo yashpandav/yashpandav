@@ -68,7 +68,6 @@ Right now I'm deep into **Agentic AI**, **RAG pipelines**, and **LLM-integrated 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat-square&logoColor=white)
 ![BullMQ](https://img.shields.io/badge/BullMQ-C8001A?style=flat-square&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
 
 **Databases & Infrastructure**
 
@@ -131,4 +130,5 @@ Right now I'm deep into **Agentic AI**, **RAG pipelines**, and **LLM-integrated 
 
 ---
 <img src="https://komarev.com/ghpvc/?username=yashpandav&color=a78bfa&style=flat&label=profile+views"/>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,12&height=100&section=footer" width="100%" />
