@@ -11,7 +11,7 @@
   <img src="https://img.shields.io/badge/📫_Email-contact@yashpandav.dev-0D1117?style=for-the-badge&labelColor=ff6b6b&color=0D1117"/>
 </a>&nbsp;&nbsp;&nbsp;
 
-<a href="https://drive.google.com/file/d/1xq6-83jdWkrOTpY2PksBAXoTkwsObU6Q/view?usp=sharing">
+<a href="https://drive.google.com/file/d/1U8w-CCsEJQjWIEPv0y9dMOR7FJhftl5c/view?usp=sharing">
   <img src="https://img.shields.io/badge/📄_Resume-Download-0D1117?style=for-the-badge&labelColor=a8ff78&color=0D1117"/>
 </a>
 </div>
